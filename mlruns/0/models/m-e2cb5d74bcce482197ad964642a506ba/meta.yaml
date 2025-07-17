@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/models/m-e2cb5d74bcce482197ad964642a506ba/artifacts
+creation_timestamp: 1752303213595
+experiment_id: '0'
+last_updated_timestamp: 1752303221865
+model_id: m-e2cb5d74bcce482197ad964642a506ba
+model_type: null
+name: model
+source_run_id: f1254a29775e45968f99f48f47f3d821
+status: 2
+status_message: null

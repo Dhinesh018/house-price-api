@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/f6d551a30852423d86712b868f905a36/artifacts
+end_time: 1752223119091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d551a30852423d86712b868f905a36
+run_name: illustrious-rook-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752223113226
+status: 3
+tags: []
+user_id: dhine

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/6563c6e1d22f435d88ff1db7b7574f0e/artifacts
+end_time: 1752565663965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6563c6e1d22f435d88ff1db7b7574f0e
+run_name: polite-squirrel-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752565655352
+status: 4
+tags: []
+user_id: dhine

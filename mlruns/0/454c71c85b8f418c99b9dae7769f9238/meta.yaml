@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/454c71c85b8f418c99b9dae7769f9238/artifacts
+end_time: 1752568037085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454c71c85b8f418c99b9dae7769f9238
+run_name: classy-tern-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752568022935
+status: 3
+tags: []
+user_id: dhine

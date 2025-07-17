@@ -1,0 +1,12 @@
+digest: 1283cb2c
+name: dataset
+profile: '{"num_rows": 1168, "num_elements": 8176}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "OverallQual", "required": true},
+  {"type": "long", "name": "GrLivArea", "required": true}, {"type": "long", "name":
+  "GarageCars", "required": true}, {"type": "long", "name": "TotalBsmtSF", "required":
+  true}, {"type": "long", "name": "YearBuilt", "required": true}, {"type": "long",
+  "name": "FullBath", "required": true}, {"type": "long", "name": "1stFlrSF", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "dhine", "mlflow.source.name": "train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "6b8015aa8c0d0ee6c911c3e0e762bfac6176abaf"}}'
+source_type: code

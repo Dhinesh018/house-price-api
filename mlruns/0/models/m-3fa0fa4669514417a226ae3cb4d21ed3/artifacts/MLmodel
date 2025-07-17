@@ -1,0 +1,33 @@
+artifact_path: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/models/m-3fa0fa4669514417a226ae3cb4d21ed3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-3fa0fa4669514417a226ae3cb4d21ed3
+model_size_bytes: 10337642
+model_uuid: m-3fa0fa4669514417a226ae3cb4d21ed3
+prompts: null
+run_id: 6563c6e1d22f435d88ff1db7b7574f0e
+signature:
+  inputs: '[{"type": "long", "name": "OverallQual", "required": true}, {"type": "long",
+    "name": "GrLivArea", "required": true}, {"type": "long", "name": "GarageCars",
+    "required": true}, {"type": "long", "name": "TotalBsmtSF", "required": true},
+    {"type": "long", "name": "YearBuilt", "required": true}, {"type": "long", "name":
+    "FullBath", "required": true}, {"type": "long", "name": "1stFlrSF", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-15 07:47:36.336079'

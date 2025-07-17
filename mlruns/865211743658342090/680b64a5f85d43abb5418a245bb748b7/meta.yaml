@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/865211743658342090/680b64a5f85d43abb5418a245bb748b7/artifacts
+end_time: 1752136925528
+entry_point_name: ''
+experiment_id: '865211743658342090'
+lifecycle_stage: active
+run_id: 680b64a5f85d43abb5418a245bb748b7
+run_name: loud-pig-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752136920630
+status: 3
+tags: []
+user_id: dhine

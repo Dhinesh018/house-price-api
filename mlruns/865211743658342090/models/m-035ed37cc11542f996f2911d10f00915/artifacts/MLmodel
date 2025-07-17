@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/865211743658342090/models/m-035ed37cc11542f996f2911d10f00915/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-035ed37cc11542f996f2911d10f00915
+model_size_bytes: 623
+model_uuid: m-035ed37cc11542f996f2911d10f00915
+prompts: null
+run_id: 01f69ee30b214686965a8c8c01a4d9e9
+utc_time_created: '2025-07-11 07:37:09.107480'

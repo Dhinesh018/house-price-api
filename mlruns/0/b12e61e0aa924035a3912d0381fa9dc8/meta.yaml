@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/b12e61e0aa924035a3912d0381fa9dc8/artifacts
+end_time: 1752479887827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b12e61e0aa924035a3912d0381fa9dc8
+run_name: sincere-bat-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752479883197
+status: 3
+tags: []
+user_id: dhine

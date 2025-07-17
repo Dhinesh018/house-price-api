@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/865211743658342090/6371237bf4b547df9326edc66e8c8578/artifacts
+end_time: 1752478838700
+entry_point_name: ''
+experiment_id: '865211743658342090'
+lifecycle_stage: active
+run_id: 6371237bf4b547df9326edc66e8c8578
+run_name: upset-shrike-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752478830977
+status: 3
+tags: []
+user_id: dhine

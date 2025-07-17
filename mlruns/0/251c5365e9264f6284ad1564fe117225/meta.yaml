@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/251c5365e9264f6284ad1564fe117225/artifacts
+end_time: 1752567514628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 251c5365e9264f6284ad1564fe117225
+run_name: angry-flea-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752567506773
+status: 4
+tags: []
+user_id: dhine

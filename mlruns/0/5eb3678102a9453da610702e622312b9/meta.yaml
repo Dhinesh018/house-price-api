@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/5eb3678102a9453da610702e622312b9/artifacts
+end_time: 1752564182508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb3678102a9453da610702e622312b9
+run_name: welcoming-donkey-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752564172524
+status: 3
+tags: []
+user_id: dhine

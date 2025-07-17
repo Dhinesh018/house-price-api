@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/e8e9efec238f4041af3cb83211aee4de/artifacts
+end_time: 1752564597715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8e9efec238f4041af3cb83211aee4de
+run_name: likeable-panda-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752564590273
+status: 3
+tags: []
+user_id: dhine

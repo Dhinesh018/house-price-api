@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/865211743658342090/2101b8ef564d46ba95f262aea638ecdb/artifacts
+end_time: 1752222013811
+entry_point_name: ''
+experiment_id: '865211743658342090'
+lifecycle_stage: active
+run_id: 2101b8ef564d46ba95f262aea638ecdb
+run_name: debonair-goose-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752222005811
+status: 3
+tags: []
+user_id: dhine

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/8eb2e0cf21024910b8c4c176460f6923/artifacts
+end_time: 1752564630001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eb2e0cf21024910b8c4c176460f6923
+run_name: popular-dove-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752564622602
+status: 3
+tags: []
+user_id: dhine

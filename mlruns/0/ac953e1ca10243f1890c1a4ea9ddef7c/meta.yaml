@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/ac953e1ca10243f1890c1a4ea9ddef7c/artifacts
+end_time: 1752567925125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac953e1ca10243f1890c1a4ea9ddef7c
+run_name: kindly-ox-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752567916832
+status: 4
+tags: []
+user_id: dhine

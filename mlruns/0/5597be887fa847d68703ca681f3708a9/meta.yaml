@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/5597be887fa847d68703ca681f3708a9/artifacts
+end_time: 1752567868794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5597be887fa847d68703ca681f3708a9
+run_name: glamorous-swan-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752567860348
+status: 4
+tags: []
+user_id: dhine

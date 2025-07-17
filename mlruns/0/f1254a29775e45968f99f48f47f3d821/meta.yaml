@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/f1254a29775e45968f99f48f47f3d821/artifacts
+end_time: 1752303221921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1254a29775e45968f99f48f47f3d821
+run_name: burly-cub-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752303213468
+status: 3
+tags: []
+user_id: dhine
