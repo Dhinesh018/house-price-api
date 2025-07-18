@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/c2179bc058264f45b02f5de8c8a932ee/artifacts
+end_time: 1752857674355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2179bc058264f45b02f5de8c8a932ee
+run_name: chill-bass-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752857667068
+status: 3
+tags: []
+user_id: dhine

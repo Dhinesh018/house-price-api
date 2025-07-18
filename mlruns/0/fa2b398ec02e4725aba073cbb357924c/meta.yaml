@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhine/Houseprice_prediction_API/mlruns/0/fa2b398ec02e4725aba073cbb357924c/artifacts
+end_time: 1752829028930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa2b398ec02e4725aba073cbb357924c
+run_name: aged-donkey-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752829021716
+status: 3
+tags: []
+user_id: dhine

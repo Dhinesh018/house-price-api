@@ -1,0 +1,24 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "OverallQual",
+      "GrLivArea",
+      "GarageCars",
+      "TotalBsmtSF",
+      "GarageArea",
+      "FullBath",
+      "YearBuilt"
+    ],
+    "data": [
+      [
+        6,
+        1068,
+        1,
+        1059,
+        264,
+        1,
+        1963
+      ]
+    ]
+  }
+}

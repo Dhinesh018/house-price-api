@@ -7,6 +7,7 @@ import mlflow
 import mlflow.sklearn
 from mlflow.models.signature import infer_signature
 import joblib
+import os
 
 # Load data
 df = pd.read_csv("train.csv")
@@ -21,39 +22,38 @@ target = "SalePrice"
 X = df[features]
 y = df[target]
 
-# Split the data
+# Train-test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Train the model
+# Train model
 model = RandomForestRegressor(random_state=42)
 model.fit(X_train, y_train)
 
-# Predict and evaluate
+# Evaluate
 predictions = model.predict(X_test)
-mse = mean_squared_error(y_test, predictions)
-rmse = np.sqrt(mse)
+rmse = np.sqrt(mean_squared_error(y_test, predictions))
 r2 = r2_score(y_test, predictions)
 
 print(f"RMSE: {rmse}")
 print(f"R²: {r2}")
 
-# MLflow logging
+# Start MLflow run
 with mlflow.start_run():
     mlflow.log_metric("rmse", rmse)
     mlflow.log_metric("r2_score", r2)
-    
-    # Infer input/output signature
+
     input_example = X_test.iloc[:1]
     signature = infer_signature(X_test, model.predict(X_test))
 
-    # Log and register the model
     mlflow.sklearn.log_model(
-        model,
+        sk_model=model,
         artifact_path="model",
         registered_model_name="house_price_model_rf",
-        input_example=input_example,
-        signature=signature
+        signature=signature,
+        input_example=input_example
     )
 
-# Save model locally
-joblib.dump(model, "model.joblib")
+    # Optional: Save locally for FastAPI use
+    os.makedirs("saved_model", exist_ok=True)
+    joblib.dump(model, "saved_model/model.pkl")
+    print("Model saved locally to saved_model/model.pkl")
